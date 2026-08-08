@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="249" src="https://cdn.discordapp.com/attachments/1155278609360109598/1533207493092704326/download_14_1.jpg?ex=6a6fa63f&is=6a6e54bf&hm=e6b3933aad4c553d1e0508147a5d3533cc5993a8534c09c3498384384641d943&"  />
+  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1152698447602925690/1535754860836818985/IMG_7744.gif?ex=6a78eaab&is=6a77992b&hm=a787f92879c745f1c8435c22008e14766305605df3933091efab750615b57495&"  />
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1155278609360109598/1533216014844690442/1477812375466415-removebg-preview.png?ex=6a72f9ef&is=6a71a86f&hm=903008a43c781d37da0eff80620a0fe3c952d1816f6f7c08f5bdab7da0669d13&"  />
+  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1152698447602925690/1535754866910298283/IMG_7746.gif?ex=6a78eaad&is=6a77992d&hm=89f9e60d819962963634d466ae7d862ff2307c1f023e3074ad4757176347658b&"  />
 </div>
 
 ###
