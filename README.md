@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://cdn.discordapp.com/attachments/1152698447602925690/1535754860836818985/IMG_7744.gif?ex=6a78eaab&is=6a77992b&hm=a787f92879c745f1c8435c22008e14766305605df3933091efab750615b57495&"  />
+  <img data-importer="image" height="200" src="https://i.ibb.co/35hqwY4j/IMG-7744.gif" alt="IMG 7744" border="0"/>
 </div>
 
 ###
