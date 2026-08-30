@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-${\textsf{\color{#B8B8B8} ⚊　　🐑　　⊹　　➣}}$　<a href="https://sauceboss.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>　 ${\textsf{\color{#B8B8B8} ♪　　　𝖾𐓣𝗀　　☆}}$
+${\textsf{\color{#B8B8B8} ⚊　　🐑　　⊹　　➣}}$　<a href="https://dermalzz.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>　 ${\textsf{\color{#B8B8B8} ♪　　　𝖾𐓣𝗀　　☆}}$
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ ${\textsf{\color{#B8B8B8} ✦　　﹐　‹𝟹 𝗄α𝗍𝗂𝖾, α𝗌ɦ, �
 </div>
 
 <p align="center">
-${\textsf{\color{#999999} .                ꉂ　      𓈒　 𓈒}}$　<a href="https://saucebxss.atabook.org">﹒⌗﹒αтαвσσк ⸝⸝</a> ${\textsf{\color{#666666} ⋌ ⠀   ◌⃘.}}$
+${\textsf{\color{#999999} .                ꉂ　      𓈒　 𓈒}}$　<a href="https://guns.lol/dermalz">﹒⌗﹒𝗀υ𐓣ડ ⸝⸝</a> ${\textsf{\color{#666666} ⋌ ⠀   ◌⃘.}}$
 </p>
 
 <br>
