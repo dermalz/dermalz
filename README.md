@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.ibb.co/PsPnwwGg/IMG-7449.jpg" alt="main image" width="48%">
+  <img src="https://i.ibb.co/tTW8H5xh/IMG-8281.png" alt="decoration" width="55%">
 </div>
 
 <div align="center">
