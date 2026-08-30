@@ -63,10 +63,12 @@ ${\textsf{\color{#999999} .                ꉂ　      𓈒　 𓈒}}$　<a href
 
 <br>
 
-
 <div align="center">
-  <img src="https://i.ibb.co/tTHcHVpK/IMG-8272.jpg" alt="image placeholder" width="42%">
-</div>
+  
+  ![eye](eye.gif)
+  
+  </div>
+
 
 <br>
 
