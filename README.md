@@ -42,7 +42,7 @@ ${\textsf{\color{#B8B8B8} ✦　　﹐　‹𝟹 𝗄α𝗍𝗂𝖾, α𝗌ɦ, �
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/wZNbj68r/IMG-8258.png" alt="decoration" width="20%">
+  <img src="https://i.ibb.co/XvMfMRP/IMG-8276.png" alt="decoration" width="20%">
 </div>
 
 <p align="center">
@@ -98,7 +98,6 @@ ${\textsf{\color{#999999} .                ꉂ　      𓈒　 𓈒}}$　<a href
   ![](https://komarev.com/ghpvc/?username=saucebxsss&color=666666&label=++𝐒𝐖𝐀𝐆!++&base=100)
 </div>
 
-
 <div align="center">
-  <img src="https://i.ibb.co/Vc2xDtz2/IMG-8264.png" alt="bottom decoration" width="100%">
+  <img src="https://i.ibb.co/39vDnMq7/IMG-8275.png" alt="decoration" width="100%">
 </div>
