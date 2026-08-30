@@ -51,23 +51,22 @@ ${\textsf{\color{#999999} .                ꉂ　      𓈒　 𓈒}}$　<a href
 
 <br>
 
-<div align="center">
-  <img src="https://i.ibb.co/B5cXmTbS/IMG-8262.png" alt="divider" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.ibb.co/tTHcHVpK/IMG-8272.jpg" alt="image placeholder" width="42%">
-</div>
-
-<br>
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31inmpydgumsga6mxbbe6rvz7umq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=888888&bar_color_cover=false">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://i.ibb.co/B5cXmTbS/IMG-8262.png" alt="divider" width="50%">
+</div>
+
+<br>
+
+
+<div align="center">
+  <img src="https://i.ibb.co/tTHcHVpK/IMG-8272.jpg" alt="image placeholder" width="42%">
+</div>
 
 <br>
 
