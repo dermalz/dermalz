@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-${\textsf{\color{#B8B8B8} ⚊　　🐑　　⊹　　➣}}$　<a href="https://dermalzz.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>　 ${\textsf{\color{#B8B8B8} ♪　　　𝖾𐓣𝗀　　☆}}$
+${\textsf{\color{#B8B8B8} ⚊　　🐑　　⊹　　➣}}$　<a href="https://dermalz.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>　 ${\textsf{\color{#B8B8B8} ♪　　　𝖾𐓣𝗀　　☆}}$
 </p>
 
 <p align="center">
