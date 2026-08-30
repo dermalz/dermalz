@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-${\textsf{\color{#B8B8B8} ⚊　　🐑　　⊹　　➣}}$　<a href="https://sauceboss.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>
+${\textsf{\color{#B8B8B8} ⚊　　🐑　　⊹　　➣}}$　<a href="https://sauceboss.straw.page">﹒⌗﹒ѕтяαωραgє ⸝⸝</a>　 ${\textsf{\color{#B8B8B8} ♪　　　𝖾𐓣𝗀　　☆}}$
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ ${\textsf{\color{#B8B8B8} ✦　　﹐　‹𝟹 𝗄α𝗍𝗂𝖾, α𝗌ɦ, �
 </p>
 
 <div align="center">
-  <img src="https://i.ibb.co/6RTzJCvV/IMG-8265.png" alt="small divider" width="40%">
+  <img src="https://i.ibb.co/wZNbj68r/IMG-8258.png" alt="decoration" width="20%">
 </div>
 
 <p align="center">
